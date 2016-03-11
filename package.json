@@ -5,7 +5,7 @@
   "main": "build/bundle.js",
   "scripts": {
     "test": "echo \"No test specified\"",
-    "dev": "webpack -d --watch --progress --quiet",
+    "dev": "webpack -d --watch --progress",
     "prod": "webpack -p"
   },
   "author": "",
