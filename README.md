@@ -6,3 +6,15 @@ Very simple project with:
 - Sass
 - Babel (es6)
 - Single HTML file
+
+### Setup
+
+`npm  install`
+
+### Development
+
+`npm run dev`
+
+### Production
+
+`npm run prod`
